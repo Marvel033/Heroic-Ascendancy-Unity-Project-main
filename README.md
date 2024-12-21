@@ -34,7 +34,7 @@ You are able to do so many stuff in the game like walking, running, building, cr
 
 
 ## 🔴About
-Lightning boy remains as my first simple game, inspired by Super Mario Bros where you gotta jump and avoid obstacle in order to reach to your winning places. I built the player movement system, Climbing System, Healthcontroller and the kill system for the player when falling to lava or touch nearby obstacle. Here's a small portion details about Lightning Boy development presented,
+Heroic Ascendancy is a semi idle game where you tap to kill monsters and then use the resources dropped by the monsters to upgrade your weaponry to fight stronger bosses. This game is a group project between me and my friends to fulfill a project assignment. 
 <br>
 
 ## 🕹️Play Game
@@ -42,8 +42,9 @@ The game was built using Unity Engine. Play the game from https://bisniskomodo.i
 <br>
 
 ## 👤Developer
-- Nicholas Van Lukman (Game Programmer)
-- Kezia Pricillia Ong (Game Artist)
+- Marvel Yizreel (Game Programmer)
+- Kenneth Zachary Djajalaksana (Game Artist)
+- Muhammad Fahmi Hidayatullah (Game Designer)
 <br>
 
 ## 📂Files description
